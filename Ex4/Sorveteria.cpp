@@ -7,7 +7,7 @@
 
 int main(int argc, char** argv) {
 	
-	setlocale (LC_ALL, " Portuguese_Brazil ");
+	setlocale(LC_ALL, "Portuguese_Brazil");
 	
 	int i;
 	
